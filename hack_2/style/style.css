@@ -1,0 +1,71 @@
+:root{
+    --bg-blue: #93B5C9;
+    --bg-wine: #AB2849; 
+}
+
+* {
+    box-sizing: border-box;
+}
+
+#container {
+    background: none;
+    width: 100%;
+}
+
+.blue {
+    width: 100%;
+    height: 200px;
+    background-color: #93B5C9;
+}
+
+.wine1 {
+    width: 100%;
+    height: 400px;
+    float: left;
+    overflow: auto;
+    background-color: #AB2849;
+}
+
+.wine2 {
+    width: 80%;
+    height: 200px;
+    margin: 2% 0;
+    float: left;
+    overflow: auto;
+    background-color: #AB2849;
+}
+
+.wine3 {
+    width: 80%;
+    height: 200px;
+    margin: 2% 0;
+    float: left;
+    overflow: auto;
+    background-color: #AB2849;
+}
+
+.wine4 {
+    width: 80%;
+    height: 200px;
+    margin: 2% 0;
+    float: left;
+    overflow: auto;
+    background-color: #AB2849;
+}
+
+.wine5 {
+    width: 80%;
+    height: 200px;
+    margin: 2% 0;
+    float: left;
+    overflow: auto;
+    background-color: #AB2849;
+}
+
+.wine6 {
+    width: 96%;
+    height: 200px;
+    margin: 2% 0 0 2%;
+    overflow: auto;
+    background-color: #AB2849;
+}
