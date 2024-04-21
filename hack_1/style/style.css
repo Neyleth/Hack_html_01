@@ -3,6 +3,10 @@
     --bg-wine: #AB2849; 
 }
 
+* {
+    box-sizing: border-box;
+}
+
 #container {
     position: relative;
     background: none;
