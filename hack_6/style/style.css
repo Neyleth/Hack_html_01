@@ -1,0 +1,161 @@
+:root{
+    --bg-verde: #00BF63;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+
+#container {
+    width: 100%;
+}
+
+.imagen {
+    position: absolute;
+    width: 100%;
+}
+
+.encabezado {
+    position: relative;
+    float: right;
+    font-size: 120px;
+    font-weight: bold;
+    width: 18%;
+    background-color: #00BF63;
+    color: white;
+    border-radius: 500px;
+    padding: 4% 4% 3% 4%;
+    margin: 13% 14% 0 0;
+}
+.off {
+    font-size: 90px;
+    padding-left: 9%;
+}
+
+.encabezado2 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.linea {
+    font-size: 39px;
+    background-color: black;
+    color: white;
+    width: 17%;
+    border-radius: 70px;
+    padding: 10px 14px 14px 44px;
+    margin: 12% 0 6% 12%;
+}
+
+.linea2 {
+    font-size: 110px;
+    font-weight: bold;
+    margin-left: 12%;
+}
+
+.linea3 {
+    font-size: 110px;
+    font-weight: bold;
+    margin-left: 12%;
+    margin-top: 1%;
+}
+
+.linea4 {
+    font-size: 110px;
+    font-weight: bold;
+    margin: 2% 0 3% 12%
+}
+
+.encabezado3 {
+    position: relative;
+    display: flex;
+    font-size: 50px;
+    width: 40%;
+    margin-left: 8%;
+}
+
+.imagenes {
+    position: relative;
+    display: flex;
+    margin: 12% 10% 2% 12%;
+    justify-content:space-between;
+}
+
+.precio {
+    text-decoration: line-through red;  
+
+}
+
+.modelos{
+    position: relative;
+    display: flex;
+    gap: 24%;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0 12% 0 12%;
+    height: 50px;
+    padding: 1px;
+}
+
+section{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    font-weight:bold;
+    
+}
+
+.modelos2 {
+    position: relative;
+    display: flex;
+    gap: 40px;
+    font-size: 40px;
+    margin: 0 8% 0 12.1%;
+}
+
+.modelos3 {
+    position: relative;
+    display: flex;
+    gap: 40px;
+    font-size: 40px;
+    margin: 0 12% 0 9.6%;
+}
+
+.modelos4 {
+    position: relative;
+    display: flex;
+    gap: 40px;
+    font-size: 40px;
+    margin: 0 12% 0 6%;
+}
+
+.imagenes2 {
+    position: relative;
+    display: flex;
+    margin: 3% 10% 2% 12%;
+    justify-content:space-between;
+}
+
+.piedepagina{
+    width: 96%;
+    height: 300px;
+    background-color: black;
+    margin: 4% 2% 0 2%;
+}
+
+.pie {
+    font-size: 49px;
+    background-color:#00BF63;
+    width: 14%;
+    border-radius: 90px;
+    padding: 10px 8px 14px 44px;
+    margin: 4% 0 0 12%;
+    float:left;
+}
+a:link{
+    text-decoration: none;
+    color: white;
+
+}
