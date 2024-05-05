@@ -17,12 +17,14 @@
     display: flex;
     margin: 5% 27% 2% 10%;
     font-size: 80px;
+    font-family: "Arimo", sans-serif;
 }
 
 .linea1 {
     float:right;
     font-size: 40px;
     margin: 6% 9% 0 9%;
+    font-family: "Arimo", sans-serif;
 }
 
 .imagen { 
@@ -38,6 +40,7 @@
     background-color:#00BF63;
     width: 500px;
     margin: 19% 0 0 1%;
+    font-family: "Arimo", sans-serif;
 }
 
 .eslogan2 {
@@ -46,19 +49,21 @@
     padding-left: 5%;
     color: #EEEEEE;
     background-color:#00BF63;
-    width: 950px;
+    width: 980px;
     margin: 0.60% 0 0 2%;
+    font-family: "Arimo", sans-serif;
 }
 
 .eslogan3 {
     position: relative;
     font-size: 75px;
     padding-left: 5%;
-    padding-right: 11%;
+    padding-right: 12.4%;
     color: #EEEEEE;
     background-color:#00BF63;
     width: 710px;
     margin: 0.60% 0 0 2%;
+    font-family: "Arimo", sans-serif;
 } 
 
 .eslogan4 {
@@ -69,6 +74,7 @@
     background-color: black;
     width: 800px;
     margin: 5% 0 1% 2%;
+    font-family: "Arimo", sans-serif;
 }
 
 .eslogan5 {
@@ -79,6 +85,7 @@
     background-color: black;
     width: 550px;
     margin: 0 3%;
+    font-family: "Arimo", sans-serif;
 }
 
 .contenido {
@@ -86,12 +93,14 @@
     font-size: 80px;
     width: 80%;
     margin: 21% 0 1% 8%;
+    font-family: "Arimo", sans-serif;
 }
 
 .contenido2 {
     position: relative;
     font-size: 39px;
     margin: 0 0 3% 8%;
+    font-family: "Arimo", sans-serif;
 }
 
 .imagenes {
@@ -103,6 +112,7 @@
 .parrafos {
     display: flex;
     flex-direction: row;
+    font-family: "Arimo", sans-serif;
 }
 
 .parrafo {
@@ -120,12 +130,13 @@
 .parrafo3 {
     display: flex;
     font-size: 50px;
-    margin-left: 11.3%;
+    margin-left: 10.5%;
 }
 
 .parrafos2 {
     display: flex;
     flex-direction: row;
+    font-family: "Arimo", sans-serif;
 }
 
 .parrafo4 {
@@ -137,7 +148,7 @@
 
 .parrafo5 {
     display: flex;
-    font-size: 29px;
+    font-size: 28px;
     margin-left: 9%;
     width: 23%;
 }
@@ -145,7 +156,7 @@
 .parrafo6 {
     display: flex;
     font-size: 30px;
-    margin-left: 6.5%;
+    margin-left: 6.4%;
     width: 23%;
 }
 
@@ -158,4 +169,5 @@
     padding: 0 0 0 8%;
     margin:  3% 2% 0 2%;
     gap: 15%;
+    font-family: "Arimo", sans-serif;
 }
