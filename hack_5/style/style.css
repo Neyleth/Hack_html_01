@@ -1,0 +1,161 @@
+:root {
+    --bg-verde:#00BF63;
+    --bg-verde:#7ED957;
+    --bg-blanco:#EEEEEE;
+}
+
+#container {
+    width: 100%;
+}
+
+.encabezado {
+    display: flex;
+    flex-direction: row;
+}
+
+.linea {
+    display: flex;
+    margin: 5% 27% 2% 10%;
+    font-size: 80px;
+}
+
+.linea1 {
+    float:right;
+    font-size: 40px;
+    margin: 6% 9% 0 9%;
+}
+
+.imagen { 
+    position: absolute;
+    width: 100%;
+}
+
+.eslogan {
+    position: relative;
+    font-size: 75px;
+    padding-left: 6%;
+    color: #EEEEEE;
+    background-color:#00BF63;
+    width: 500px;
+    margin: 19% 0 0 1%;
+}
+
+.eslogan2 {
+    position: relative;
+    font-size: 75px;
+    padding-left: 5%;
+    color: #EEEEEE;
+    background-color:#00BF63;
+    width: 950px;
+    margin: 0.60% 0 0 2%;
+}
+
+.eslogan3 {
+    position: relative;
+    font-size: 75px;
+    padding-left: 5%;
+    padding-right: 11%;
+    color: #EEEEEE;
+    background-color:#00BF63;
+    width: 710px;
+    margin: 0.60% 0 0 2%;
+} 
+
+.eslogan4 {
+    position: relative;
+    font-size: 39px;
+    padding-left: 7%;
+    color: #EEEEEE;
+    background-color: black;
+    width: 800px;
+    margin: 5% 0 1% 2%;
+}
+
+.eslogan5 {
+    position: relative;
+    font-size: 39px;
+    padding-left: 6%;
+    color: #EEEEEE;
+    background-color: black;
+    width: 550px;
+    margin: 0 3%;
+}
+
+.contenido {
+    position: relative;
+    font-size: 80px;
+    width: 80%;
+    margin: 21% 0 1% 8%;
+}
+
+.contenido2 {
+    position: relative;
+    font-size: 39px;
+    margin: 0 0 3% 8%;
+}
+
+.imagenes {
+    margin: 0 0 0 8%;
+    display: flex;
+    gap: 8%;
+}
+
+.parrafos {
+    display: flex;
+    flex-direction: row;
+}
+
+.parrafo {
+    display: flex;
+    font-size: 50px;
+    margin-left: 8%;
+}
+
+.parrafo2 {
+    display: flex;
+    font-size: 50px;
+    margin-left: 18%;
+}
+
+.parrafo3 {
+    display: flex;
+    font-size: 50px;
+    margin-left: 11.3%;
+}
+
+.parrafos2 {
+    display: flex;
+    flex-direction: row;
+}
+
+.parrafo4 {
+    display: flex;
+    font-size: 30px;
+    margin-left: 9%;
+    width: 20%;
+}
+
+.parrafo5 {
+    display: flex;
+    font-size: 29px;
+    margin-left: 9%;
+    width: 23%;
+}
+
+.parrafo6 {
+    display: flex;
+    font-size: 30px;
+    margin-left: 6.5%;
+    width: 23%;
+}
+
+.piedepagina {
+    display: flex;
+    flex-direction: row;
+    font-size: 39px;
+    background-color: #00BF63;
+    color: #EEEEEE;
+    padding: 0 0 0 8%;
+    margin:  3% 2% 0 2%;
+    gap: 15%;
+}
